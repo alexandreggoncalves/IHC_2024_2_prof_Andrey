@@ -27,8 +27,23 @@ De acordo com o site da empresa, esses são os seus objetivos de negócio, miss�
   - busca de ofertas;
   - busca de agências;
   - programa de benefícios;
-  - link para serviço de cargas e encomendas (site específico);
-  - link para serviço de fretamento/cotação (site específico);
+  - link para serviço de cargas e encomendas (site esterno);
+  - link para serviço de fretamento/cotação (site externo);
+  - fazer parte do time da empresa (site externo)
   - SAC telefônico ou via WhatsApp
   - Blog;
-  - 
+
+## Usuários X serviços
+  Os usuários que utilizam o sistema, que podem ser de diferentes idades e classes sociais, buscam: 
+  - consulta ao preço das passagens
+  - verificação dos preços praticados
+  - informações sobre a empresa
+  - rotas/destinos
+  - consultar seus pontos
+  - realizar uma compra ou utilizar seus pontos acumulados
+  - entrar em contato com a empresa
+  - tirar dúvidas
+  - imprimir seu bilhete / voucher
+  - fazer uma cotação de encomenda
+  - fazer uma cotação de fretamento
+  - fazer parte do grupo de trabalho
