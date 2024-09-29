@@ -1,7 +1,10 @@
 ## O sistema avaliado será um e-comerce da empresa de tansportes Eucatur 
 (Empresa União Cascavel de Transportes e Turismo Ltda.)
 
-De acordo com o site da empresa, esses são os seus objetivos de negócio, missão, visão e valores.
+O sitema do site da Eucatur, permite a realizção de vários serviços que a empresa disponibiliza em sua plataforma Web. <br />
+O sistema chamado de **"IMPETUS"**, foi criado pela [**Eulabs**](https://eulabs.com.br/), em 2021, com o objetivo de trabalhar com a melhora contínua da qualidade dos seus processos e produtos para criar soluções e relacionamento com seus clientes, de maneira ágil, segura e transparente, agregando valor ao negócio.
+
+De acordo com o site da **Eucatur**, esses são os seus objetivos de negócio, missão, visão e valores.
 
 ## Negócio
   - Transportar com carinho.
@@ -29,7 +32,7 @@ De acordo com o site da empresa, esses são os seus objetivos de negócio, miss�
   - programa de benefícios;
   - link para serviço de cargas e encomendas (site esterno);
   - link para serviço de fretamento/cotação (site externo);
-  - fazer parte do time da empresa (site externo)
+  - fazer parte do time da empresa (trabalhe conosco, site externo)
   - SAC telefônico ou via WhatsApp
   - Blog;
 
@@ -46,4 +49,4 @@ De acordo com o site da empresa, esses são os seus objetivos de negócio, miss�
   - imprimir seu bilhete / voucher
   - fazer uma cotação de encomenda
   - fazer uma cotação de fretamento
-  - fazer parte do grupo de trabalho
+  - fazer parte do grupo de trabalho (trabalhe conosco)
