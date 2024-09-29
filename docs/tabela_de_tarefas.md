@@ -8,7 +8,7 @@
 |        ---                                     | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    |
 | Tarefa / dia                                   | 29       | 30       | 01       | 02       | 03       | 04       | 05       |
 | Manutenção GIT                                 | A1 1:00  |          |          |          |          |          |          |
-| Objetivos e definições do sistema              | A1 1:00  |          |          |          |          |          |          |
+| Objetivos e definições do sistema              | A1 1:40  |          |          |          |          |          |          |
 
 | TAREFAS SEMANA 2                               |          |          |          |          |          |          |          |
 |        ---                                     | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    |
