@@ -16,10 +16,9 @@ Onde:
 Saber identificar o público-alvo e essencial, mas não uma tarefa fácil. <br />
 Considerando o conteúdo acima à respeito da classificação, a empresa atende a todos os tipo de público de forma diversa. Porém se olhar para algumas cidades o público-alvo é diferente.
 
-Nas capitais e cidades que possuem um número maior de habitantes o público tende, devido ao dia-a-dia mais intenso e problemas de locomoção, a optar por meios digitais para aquisição de bilhetes.<br />
-Já nas pequenas cidades, onde a vida é mais "pacata", a tendência é a procura por agências físicas para venda de bilhetes.
+Nas capitais e cidades que possuem um número maior de habitantes o público tende, devido ao dia-a-dia mais intenso e problemas de locomoção, a optar por meios digitais para aquisição de bilhetes. Já nas pequenas cidades, onde a vida é mais "pacata", a tendência é a procura por agências físicas para venda de bilhetes.
 
-Quando falamos em transporte, acreditamos que todo o tipo de público é esperado, mas como estamos focados no sistema de venda de bilhetes online, focaremos nas Gerações X, Y e Z para o estudo proposto.
+Quando falamos em transporte, acreditamos que todo o tipo de público é esperado, mas como estamos focados no sistema de venda de bilhetes online, iremos escolher o público das Gerações X, Y e Z para o estudo proposto.
 
 ## Referências:
 [Geofusion](https://blog.geofusion.com.br/blog/tipos-de-publico-alvo?utm_matchtype=&utm_adgroup=geral&utm_device=c&placement=&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapVAEUiDxt_QDHrn3u2wf19z3zn6J0MGUOHGCTDb7fVJU--R2RzPg6oaAlDxEALw_wcB&utm_placement=&utm_creative=&utm_source=adwords&utm_campaign=PMAX_ALWAYS_ON_GERAL_GOOGLE&utm_medium=ppc&utm_content=responsivo_pmax_geral&utm_term=&hsa_acc=4920961291&hsa_cam=20772569990&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1)
