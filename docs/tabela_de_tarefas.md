@@ -4,6 +4,7 @@
 #### A2: Juliane
 #### A3: Matheus
 
+*tempo no formato **hh:mm**<br />
 | TAREFAS SEMANA 1                               |          |          |          |          |          |          |          |
 |        ---                                     | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    |
 | Tarefa / dia                                   | 29       | 30       | 01       | 02       | 03       | 04       | 05       |
