@@ -13,10 +13,10 @@ Onde:
   - **Geração Y**, são os nascidos entre 1980 e 1996, sáo muito adeptos às redes sociais, pois vivenciaram uma época em que os computadores e a internet era uma realidade consolidada. Gostam de tecnologia, compram muito online, tem confiância nos sistemas, não são tão leais a marcas, mas procuram tendências em princípios morais que eles acreditam.
   - **Geração Z**, são os nascidos entre 1996 a 2020, já nasceram na era da internet, tablets, smartphones, utilizam estes recursos naturalmente desde muito cedo, fazem o uso das teconlogias para praticamente tudo, compras, alimentação, viagens, estudo, trabalho, etc.
 
-Saber identificar o público-alvo e essencial, mas não uma tarefa fácil.
+Saber identificar o público-alvo e essencial, mas não uma tarefa fácil. <br />
 Considerando o conteúdo acima à respeito da classificação, a empresa atende a todos os tipo de público de forma diversa. Porém se olhar para algumas cidades o público-alvo é diferente.
 
-Nas capitais e cidades que possuem um número maior de habitantes o público tende, devido ao dia-a-dia mais intenso e problemas de locomoção, a optar por meios digitais para aquisição de bilhetes.
+Nas capitais e cidades que possuem um número maior de habitantes o público tende, devido ao dia-a-dia mais intenso e problemas de locomoção, a optar por meios digitais para aquisição de bilhetes.<br />
 Já nas pequenas cidades, onde a vida é mais "pacata", a tendência é a procura por agências físicas para venda de bilhetes.
 
 Quando falamos em transporte, acreditamos que todo o tipo de público é esperado, mas como estamos focados no sistema de venda de bilhetes online, focaremos nas Gerações X, Y e Z para o estudo proposto.
