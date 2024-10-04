@@ -8,7 +8,7 @@
 | TAREFAS SEMANA 1                               |          |          |          |          |          |          |          |
 |        ---                                     | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    |
 | Tarefa / dia                                   | 29       | 30       | 01       | 02       | 03       | 04       | 05       |
-| **T1** Manutenções no diretório GIT            | A1 1:20  | A1 0:10  |          |          |          | A1 0:15/A2 :0:16  |          |
+| **T1** Manutenções no diretório GIT            | A1 1:20  | A1 0:10  |          |          |          | A1 0:15/A3 :0:16  |          |
 | **T2** Objetivos e definições do sistema       | A1 1:40  |          |          |          |          |          |          |
 | **T3** Perfil dos usuários do sistema          | A1 1:00  | A1 0:40  |          |          |          |          |          |
 | **T4** Objetivo dos usuários do sistema        |          |          |          | A1 0:40  |          | A1 0:30  |          |
