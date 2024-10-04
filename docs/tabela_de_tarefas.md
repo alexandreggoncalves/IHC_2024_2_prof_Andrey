@@ -1,8 +1,8 @@
 # Tabela de Tarefas
 
 #### A1: Alexandre Gomes Gonçalves
-#### A2: Juliane
-#### A3: Matheus
+#### A2: Juliane Athayde Calixto
+#### A3: Mateus Figueiredo Carlos
 
 *tempo no formato **hh:mm***<br />
 | TAREFAS SEMANA 1                               |          |          |          |          |          |          |          |
