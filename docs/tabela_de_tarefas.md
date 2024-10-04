@@ -11,6 +11,7 @@
 | **T1** Manutenções no diretório GIT            | A1 1:20  | A1 0:10  |          |          |          |          |          |
 | **T2** Objetivos e definições do sistema       | A1 1:40  |          |          |          |          |          |          |
 | **T3** Perfil dos usuários do sistema          | A1 1:00  | A1 0:40  |          |          |          |          |          |
+| **T4** Objetivo dos usuários do sistema        |          |          |          | A1 0:40  |          | A1 0:30  |          |
 
 | TAREFAS SEMANA 2                               |          |          |          |          |          |          |          |
 |        ---                                     | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    |
