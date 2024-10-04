@@ -1,4 +1,4 @@
-# Perfil dos usuários do sistema Eucatur <br />
+# 2.2 - Perfil dos usuários do sistema Eucatur <br />
 ### [www.eucatur.com.br](https://www.eucatur.com.br/)
 
 Não podemos confundir Público-Alvo com Persona, onde Persona é uma definição muito mais específica sobre um determinado tipo de usuário, enquanto Público-Alvo utiliza uma gama maior de características em um grupo maior de usuários.
