@@ -12,12 +12,14 @@
 | **T2** Objetivos e definições do sistema       | A1 1:40  |          |          |          |          |          |          |
 | **T3** Perfil dos usuários do sistema          | A1 1:00  | A1 0:40  |          |          |          |          |          |
 | **T4** Objetivo dos usuários do sistema        |          |          |          | A1 0:40  |          | A1 0:30  |          |
-| **T5** Relatório de Inspeção                   |          |          | A1: 0:20 | A1 0:25  | A1:0:15  | A1 0:45  | A1 0:30  |
+| **T5** Inspeção de usabilidade                 |          |          | A1: 0:20 | A1 0:25  | A1:0:15  | A1 0:45  | A1 0:30  |
+| **T6** Relatório da Inspeção                   |          |          |          |          |          |          |          |
 
 | TAREFAS SEMANA 2                               |          |          |          |          |          |          |          |
 |        ---                                     | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    |
 | Tarefa / dia                                   | 06       | 07       | 08       | 09       | 10       | 11       | 12       |
-| **T5** Relatório de Inspeção                   |          | A1 0:20  |          |          |          |          |          |
+| **T5** Inspeção de usabilidade                 |          | A1 0:20  |          |          |          |          |          |
+| **T6** Relatório da Inspeção                   |          |          |          |          |          |          |          |
 
 | TAREFAS SEMANA 3                               |          |          |          |                |                     |
 |        ---                                     | :---:    | :---:    | :---:    | :---:          | :---:               |
