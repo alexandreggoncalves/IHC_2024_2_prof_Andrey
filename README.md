@@ -7,7 +7,7 @@ O diretório foi organizado conforme orientações do professor.
 | ---                                              | ---      | ---           |
 | Diretório Raíz                                   | [/](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey) | pasta base no GIT |
 | Diretório Sistema                                | [/sistema/](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/sistema) | Diretório para armezenar arquivo referente as descrições do sistema |
-
+| Diretório da Inspeção do Sistema                 | [/sistema/](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/inspecao_usabilidade) | Diretório para armezenar arquivo referente a inspeção do sistema |
 
 | **ENGREGAS**                                                         | **LINK** | **DESCRIÇÃO** |
 | ---                                                                  | ---      | ---           |
