@@ -17,7 +17,7 @@
 | TAREFAS SEMANA 2                               |          |          |          |          |          |          |          |
 |        ---                                     | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    | :---:    |
 | Tarefa / dia                                   | 06       | 07       | 08       | 09       | 10       | 11       | 12       |
-| **T1** Manutenções no diretório GIT            |          |          |          |          | A1 0:30  |          |          |
+| **T1** Manutenções no diretório GIT            |          |          |          |          | A1 0:45  |          |          |
 | **T5** Inspeção de usabilidade                 |          | A1 0:20  |          |          |          |          |          |
 | **T6** Planejamento da inspeção de usabilidade |          |          |          |          | A1 0:25  |          |          |
 | **T7** Coleção da inspeção de usabilidade      |          |          |          |          |          |          |          |
