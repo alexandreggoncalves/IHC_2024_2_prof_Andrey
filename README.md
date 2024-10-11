@@ -1,4 +1,9 @@
-# IHC_2024_2_prof_Andrey
+# UNIVERSIDADE FEDERAL DO AMAZONAS - UFAM
+# INSTITUTO DE CIÊNCIAS EXATAS E TECNOLOGIA - ICET
+## INTERAÇÃO HUMANO COMPUTADOR - 2024/2
+## Prof. Dr. Andrey Rodrigues
+### Trabalho Prático I
+
 Repositório para inserir e organizar os dados do TP1 da disciplina IHC
 
 O diretório foi organizado conforme orientações do professor.
