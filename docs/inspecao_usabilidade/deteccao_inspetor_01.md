@@ -1,3 +1,5 @@
+# Inspeção de Usabilidade - Fase 1 - Detecção (Inspetor 01)
+
 | Localização | ID Defeito | Inspetor | Descrição do problema | Heurística | Nome Heurística | Severidade |
 | :---:       | :---:      | :---:    | ---                   | :---:      | ---             | ---        |
 | Capa | 1 | Inspetor 01 | Ao entrar no site pela primeira vez, a "div" de aviso sobre os "cookies" é exibida, porém a formatação do texto não está padronizada. | H8 |	Estética e Design Minimalista	Cosmético | Cosmético |
