@@ -1,4 +1,4 @@
-# Inspeção de Usabilidade - Fase 2 - Coleção
+# Inspeção de Usabilidade - Fase 3 - Discriminação
 
 | Localização | ID Defeito | Descrição do problema | Heurística | Nome Heurística | Severidade |
 | :---:       | :---:      | ---                   | :---:      | ---             | ---        |
