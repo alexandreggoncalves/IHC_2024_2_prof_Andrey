@@ -7,7 +7,7 @@
 * No CLS, foram encontradas duas trocas de layout, o que não é recomendado pois pode confundir o usuário quanto a confiabilidade no site.
 * O FCP avisa o mesmo do LCP, conteúdos carregados desnecessáriamente que impactam na velocidade em que as informações aparecem para o usuário.
 * Ainda existe códigos interpretados de terceiros, que impactam na velocidade de carregamento.
-* Em resumo o ponto crítico do site é desempenho, na casa de apenas 32%, acessibilidade reduzida (76%), assim como as práticas de desenvolvimento (71%), como API obsoletas e tem pontos positivos no SEO (92%), que são os indicadores para ferramentas de pesquisa.
+* Em resumo o ponto crítico do site é desempenho, sendo pior em dispositivos Mobile, na casa de apenas 32%, acessibilidade reduzida (76%), assim como as práticas de desenvolvimento (71%), como API obsoletas e tem pontos positivos no SEO (92%), que são os indicadores para ferramentas de pesquisa.
 
 ### Desempenho para dispositivos Mobile
 ![image](https://github.com/user-attachments/assets/663bee6d-fcde-4b95-9af4-f4041856422b)
