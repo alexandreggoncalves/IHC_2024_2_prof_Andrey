@@ -1,7 +1,7 @@
 # AVALIAÇÃO DE COMUNICABILIDADE - MÉTODO MAC
-## USUÁRIO 01
+## USUÁRIO 02
 
-[vídeo da avaliação](https://www.youtube.com/watch?v=TbPAS7p86cc)
+[vídeo da avaliação](https://www.youtube.com/watch?v=_60GhDSDrg4)
 
 #### Profissão: Professora - 43 anos - Sexo Feminino
 
