@@ -1,5 +1,5 @@
 # AVALIAÇÃO DE COMUNICABILIDADE - MÉTODO MAC
-## USUARIO 01
+## USUÁRIO 01
 
 [vídeo da avaliação](https://www.youtube.com/watch?v=TbPAS7p86cc)
 
