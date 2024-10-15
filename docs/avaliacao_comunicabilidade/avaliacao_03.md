@@ -1,7 +1,7 @@
 # AVALIAÇÃO DE COMUNICABILIDADE - MÉTODO MAC
 ## USUÁRIO 03
 
-[vídeo da avaliação](https://www.youtube.com/watch?v=TbPAS7p86cc)
+[vídeo da avaliação]()
 
 #### Profissão: Professora - 44 anos - Sexo Feminino
 
@@ -38,8 +38,8 @@
 | nenhuma experiência | **X** | | | | | | experiente |
 
 ### Questionário pós teste sobre as impressões ao ter utilizado o site
-![usuario_01](https://github.com/user-attachments/assets/c6c8471b-dc33-405c-881b-1aa2ab0bcb15)
+![usuario_03](https://github.com/user-attachments/assets/7c145c66-a73f-49e6-93d7-f865383ba685)
 
 
 ### Termo de consentimento livre e esclarecido - TCLE
-![tce_01](https://github.com/user-attachments/assets/edcee1b2-8691-4cf3-8bb6-3801220a7863)
+![tce_03](https://github.com/user-attachments/assets/bf7498bf-1426-434a-9499-22878b3716fc)
