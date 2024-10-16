@@ -38,7 +38,7 @@
 | nenhuma experiência | **X** | | | | | | experiente |
 
 ### Questionário pós teste sobre as impressões ao ter utilizado o site
-![usuario_03](https://github.com/user-attachments/assets/7c145c66-a73f-49e6-93d7-f865383ba685)
+![usuario_03](https://github.com/user-attachments/assets/485259bd-113f-47ed-99fb-8596aa7d63db)
 
 
 ### Termo de consentimento livre e esclarecido - TCLE
