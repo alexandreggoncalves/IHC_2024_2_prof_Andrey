@@ -36,4 +36,4 @@
 | nenhuma experiência | | | | | | **X** | experiente |
 
 ### Questionário pós teste sobre as impressões ao ter utilizado o site [UEQ - User Experience Questionnaire](https://www.ueq-online.org/)
-![usuario_01_mateus](https://github.com/user-attachments/assets/ff4801ca-6b30-43eb-b85f-1543417c92ce)
+![usuario_04_Juliane](https://github.com/user-attachments/assets/ff4801ca-6b30-43eb-b85f-1543417c92ce)
