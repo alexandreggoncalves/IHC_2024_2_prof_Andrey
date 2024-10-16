@@ -4,7 +4,12 @@
 ## Prof. Dr. Andrey Rodrigues
 ### Trabalho Prático I
 
-Repositório para inserir e organizar os dados do TP1 da disciplina IHC
+Repositório para inserir e organizar os dados do TP1 da disciplina IHC.
+Conforme documento orientador, devemos avaliar um sistema computacional interativo considerando os aspectos de usabilidade, 
+experiência do usuário (UX) e comunicabilidade.
+O roteiro de apresentação esá descrito [aqui]()
+
+
 
 O diretório foi organizado conforme orientações do professor.
 
