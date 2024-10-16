@@ -7,7 +7,7 @@
 Repositório para inserir e organizar os dados do TP1 da disciplina IHC.
 Conforme documento orientador, devemos avaliar um sistema computacional interativo considerando os aspectos de usabilidade, 
 experiência do usuário (UX) e comunicabilidade.
-O roteiro de apresentação esá descrito [aqui](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/blob/main/docs/tp1_ihc.pdf)
+O roteiro de apresentação esá descrito [aqui](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/blob/main/docs/tp1_ihc.pdf).
 
 ### Data de entrega: 16/10/2024 - 23:50 via ClassRoom
 ### Data de apresentação: 17/10/2024 - em sala de aula
