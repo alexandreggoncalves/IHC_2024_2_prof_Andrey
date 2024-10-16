@@ -1,7 +1,7 @@
 # TESTE DE USABILIDADE
 ## USUÁRIO 04
 
-#### Profissão: Estudante - 18 anos - Sexo Masculino
+#### Profissão: Estudante - 19 anos - Sexo Masculino
 
 ## Perfil do usuário referente a tecnologias.
 
