@@ -26,7 +26,9 @@
 |        ---                                          | :---:    | :---:    | :---:    | :---:          | :---:               |
 | Tarefa / dia                                        | 13       | 14       | 15       | **16 entrega** | **17 apresentação** |
 |                                                     |          |          |          |                | A1, A2, A3 00:30    |
-| **T1** Manutenções no diretório GIT                 | A1 2:10  |          |          |                |                     |
+| **T1** Manutenções no diretório GIT                 | A1 2:10  | A1 0:15  | A1 0:30  |                |                     |
 | **T8** Discriminação da Inspeção de usabilidade     | A1 0:43  |          |          |                |                     |
 | **T9** Relatório da Inspeção de usabilidade         | A1 0:15  |          |          |                |                     |
 | **T10** Relatório a avaliação de UX LightHouse      | A1 1:25  |          |          |                |                     |
+| **T11** Entrevistas avaliação de comunicabilidade   | A1 1:25  | A1 0:50  | A1 0:20  |                |                     |
+| **T12** Edição vídeos avaliação de comunicabilidade |          | A1 2:00  | A1 0:45  |                |                     |
