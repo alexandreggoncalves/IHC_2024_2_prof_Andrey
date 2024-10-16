@@ -35,8 +35,8 @@
 ### Conhece o site da Eucatur (www.eucatur.com.br)?
 |                       | 1 | 2 | 3 | 4 | 5  | 6  |                      |
 | --------------------- |---|---|---|---|----|----|---------------------- |
-| nenhuma experiência   |   | **X** |   |   |    |    | experiente            |
+| nenhuma experiência   | **x**  |  |   |   |    |    | experiente            |
 
 
 ### Questionário pós teste sobre as impressões ao ter utilizado o site [UEQ - User Experience Questionnaire](https://www.ueq-online.org/)
-![usuario_04_Juliane](https://github.com/user-attachments/assets/c25f2134-3683-46c8-8f5c-8fab7102e8b5)
+![usuario_03_Juliane](https://github.com/user-attachments/assets/c25f2134-3683-46c8-8f5c-8fab7102e8b5)
