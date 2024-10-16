@@ -17,7 +17,6 @@
 
 
 ### Compras online
-### Compras online
 |                       | 1 | 2 | 3 | 4 | 5  | 6  |                      |
 | --------------------- |---|---|---|---|----|----|---------------------- |
 | nenhuma experiência   |   |   |   |   | **X** |    | experiente            |
