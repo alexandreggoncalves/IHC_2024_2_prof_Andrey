@@ -11,15 +11,16 @@
 | nenhuma experiência | | | | | | **X** | experiente |
 
 ### Acesso à internet, sites
-|                       | 1 | 2 | 3 | 4 | 5  | 6  |                      |
-| --------------------- |---|---|---|---|----|----|---------------------- |
-| nenhuma experiência   |   |   |   |   | **X** |    | experiente            |
+| | 1 | 2 | 3 | 4 | 5 | 6 | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| nenhuma experiência | | | | | | **X** | experiente |
 
 
 ### Compras online
-| | 1 | 2 | 3 | 4 | 5 | 6 | |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| nenhuma experiência | | | **X** | | | | experiente |
+|                       | 1 | 2 | 3 | 4 | 5  | 6  |                      |
+| --------------------- |---|---|---|---|----|----|---------------------- |
+| nenhuma experiência   |   |   | **X** |   |    |    | experiente            |
+
 
 ### Sistema de pagamentos online
 | | 1 | 2 | 3 | 4 | 5 | 6 | |
