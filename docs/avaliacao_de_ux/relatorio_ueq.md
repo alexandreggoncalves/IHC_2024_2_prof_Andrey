@@ -1,8 +1,8 @@
 # PRODUTO 9 - AVALIAÇÃO DE UX
 ## Avaliação pela ferramenta [UEQ - User Experience Questionnaire](https://www.ueq-online.org/)
 
-Aqui vamos inserir dados do relatório UEQ.
 
+### União das respostas dos usuários, somando as que foram marcadas iguais.
 |                        |   1   |   2   |   3   |   4   |   5   |   6   |   7   |                            |
 | :---:                  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:                      |
 | Desagradável           |       | **1** | **1** |       |       |       |       | Agradável                  |
