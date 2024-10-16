@@ -11,8 +11,12 @@ O diretório foi organizado conforme orientações do professor.
 | **ESTRUTURA**                                    | **LINK** | **DESCRIÇÃO** |
 | ---                                              | ---      | ---           |
 | Diretório Raíz                                   | [/](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey) | pasta base no GIT. |
-| Diretório Sistema                                | [/sistema/](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/sistema) | Diretório para armezenar arquivo referente as descrições do sistema. |
-| Diretório da Inspeção de Usabilidade             | [/inspecao_usabilidade](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/inspecao_usabilidade) | Diretório para armezenar arquivo referente a inspeção de usabilidade. |
+| Diretório de Documentos                          | [/docs/](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs) | pasta de documentos. |
+| Diretório Sistema                                | [/docs/sistema/](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/sistema) | Diretório para armezenar arquivo referente as descrições do sistema. |
+| Diretório da Avaliação de Comunicabilidade       | [/docs/avaliacao_comunicabilidade](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/avaliacao_comunicabilidade) | Diretório para armezenar arquivos referente a avaliação de comunicabilidade. |
+| Diretório da Avalicação de UX                    | [/docs/avaliacao_de_ux](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/avaliacao_de_ux) | Diretório para armezenar arquivos referente as avaliações de UX. |
+| Diretório da Inspeção de Usabilidade             | [/docs/inspecao_usabilidade](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/inspecao_usabilidade) | Diretório para armezenar arquivo referente a inspeção de usabilidade. |
+| Diretório do Teste de Usabilidade                | [/docs/teste_usabilidade](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/teste_usabilidade) | Diretório para armezenar arquivos referente aos testes de usabilidade. |
 
 | **ENGREGAS**                                                       | **LINK** | **DESCRIÇÃO** |
 | ---                                                                | ---      | ---           |
