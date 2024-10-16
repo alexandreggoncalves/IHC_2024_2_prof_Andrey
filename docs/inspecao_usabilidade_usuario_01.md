@@ -1,4 +1,4 @@
-# AVALIAÇÃO DE COMUNICABILIDADE - MÉTODO MAC
+# INSPEÇÃO DE USABILIDADE
 ## USUÁRIO 01
 
 #### Profissão: Estudante - 18 anos - Sexo Masculino
