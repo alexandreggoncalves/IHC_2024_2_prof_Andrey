@@ -25,7 +25,7 @@ O diretório foi organizado conforme orientações do professor.
 | Diretório da Inspeção de Usabilidade             | [/docs/inspecao_usabilidade](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/inspecao_usabilidade) | Diretório para armezenar arquivo referente a inspeção de usabilidade. |
 | Diretório do Teste de Usabilidade                | [/docs/teste_usabilidade](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/tree/main/docs/teste_usabilidade) | Diretório para armezenar arquivos referente aos testes de usabilidade. |
 
-| **ENGREGAS**                                                       | **LINK** | **DESCRIÇÃO** |
+| **ENGREGA**                                                        | **LINK** | **DESCRIÇÃO** |
 | ---                                                                | ---      | ---           |
 | **PRODUTO 1** - Tabela de Distribuição de Tarefas                  | [/docs/tabela_de_tarefas.md](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/blob/main/docs/tabela_de_tarefas.md) | Tabela que descreve o que cada integrante realizou e o tempo no trabalho TP1. |
 | **PRODUTO 2** - Arquivo de objetivos do sistema                    | [/docs/sistema/2_1_dominio_e_objetivo_do_sistema.md](https://github.com/alexandreggoncalves/IHC_2024_2_prof_Andrey/blob/main/docs/sistema/2_1_dominio_e_objetivo_do_sistema.md) | Objetos do sistema. |
