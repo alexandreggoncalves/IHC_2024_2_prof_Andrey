@@ -36,4 +36,5 @@
 | nenhuma experiência | | | | | | **X** | experiente |
 
 ### Questionário pós teste sobre as impressões ao ter utilizado o site [UEQ - User Experience Questionnaire](https://www.ueq-online.org/)
-![usuario_01_Juliane](https://github.com/user-attachments/assets/1fa47c3a-f2cb-4a6b-926a-d1d50e1b7e6f)
+![usuario_01_Juliane](https://github.com/user-attachments/assets/3b8e7644-52b5-487d-9d92-ca2b5be71b0d)
+
