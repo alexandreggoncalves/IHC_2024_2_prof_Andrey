@@ -1,6 +1,16 @@
 # PRODUTO 9 - AVALIAÇÃO DE UX
 ## Avaliação pela ferramenta [UEQ - User Experience Questionnaire](https://www.ueq-online.org/)
 
+A avliação aplicada sempre após os testes de usabilidade e avaliação de comunicabilidade gerou a planilha abaixo.
+Notamos algumas particularidades interessantes nos 8 usuários em que foi aplicado o questionário. Podemos notar que
+uam grande parte acho o site um pouco "desagradável", o contrário da parcepção de "rápido" e "lento" que foram opiniões
+bem diversas. Uma maioria também achou o site um pouco "imprevisível" e também "desmotivante" e "confuso". É importante
+destacar que estes usuários tinham um perfil de conhecimento de sites e de compras online bem diverso, assim como 
+a sua experiência em navegabilidade na internet. Mais da metade marcou que o site "não atende as expectativas" uma vez 
+que as tarefas direcionadas estavam focadas no objetivo principal do site, que é a venda de passagens de ônibus.
+Assim os usuários foram escolhidos entre pessoas comuns que fazem uso do serviço de transporte. Podemos resumir 
+que o site apresentou os mesmos problemas aos usuários que foram identificados na etapa de inspeção e que muitos 
+pontos são comuns entre os usuários entrevistados.
 
 ### União das respostas dos usuários, somando as que foram marcadas iguais ( 8 usuários avaliados ).
 |                        |   1   |   2   |   3   |   4   |   5   |   6   |   7   |                            |
