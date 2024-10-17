@@ -1,6 +1,6 @@
 
 # Relatório final de usabilidade 
-** Teste de Usabilidade do Site Eucatur**
+**- Teste de Usabilidade do Site Eucatur-**
 
 Este relatório final descreve os resultados de um teste de usabilidade realizado no site da Eucatur, onde quatro usuários foram instruídos a completar uma lista de tarefas com o objetivo de avaliar a facilidade de navegação, clareza das informações, desempenho do site e satisfação geral. O teste foi desenvolvido para identificar pontos fortes e áreas de melhoria no processo de compra de passagens e no uso das funcionalidades do site.
 
