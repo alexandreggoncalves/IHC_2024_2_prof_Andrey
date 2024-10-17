@@ -57,7 +57,7 @@ No momento do pagamento, é positivo que o site ofereça várias opções, como 
 Ao final, ele sugeriu melhorias na otimização do tempo de carregamento das páginas, na organização dos menus e na apresentação das políticas de cancelamento de forma mais claras durante o processo de compra.
 
 # Recomendações Finais
-O usuário número 3 deusugestões importantes para melhorar a experiência no site da Eucatur:
+O usuário número 3 deu sugestões importantes para melhorar a experiência no site da Eucatur:
 
 **Otimização do Tempo de Carregamento** : A lentidão no carregamento das páginas foi um dos principais pontos negativos e precisa ser resolvido para evitar frustração, especialmente para usuários com internet lenta.
 **Comparação de Passagens** : A inclusão de uma ferramenta que permite comparar passagens para dados diferentes sem precisar refazer a busca seria um grande diferencial, comodidade mais praticidade e eficiência.
