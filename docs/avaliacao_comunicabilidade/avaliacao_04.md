@@ -1,7 +1,7 @@
 # AVALIAÇÃO DE COMUNICABILIDADE - MÉTODO MAC
 ## USUÁRIO 04
 
-[vídeo da avaliação](https://www.youtube.com/watch?v=pwDPEKwpCuU)
+[vídeo da avaliação](https://www.youtube.com/watch?v=NbI6LjNTxj8)
 
 #### Profissão: Professor - 50 anos - Sexo Masculino
 
