@@ -41,7 +41,7 @@
 ### Questionário pós teste sobre as impressões ao ter utilizado o site [UEQ - User Experience Questionnaire](https://www.ueq-online.org/)
 ![usuario_04_Juliane](https://github.com/user-attachments/assets/c25f2134-3683-46c8-8f5c-8fab7102e8b5)
 
-#Relatório de usabilidade do usuário 4 
+# Relatório de usabilidade do usuário 4 
 
 O usuário 4 teve uma experiência inicial um pouco melhor, achando o layout do site relativamente intuitivo, mas com ressalvas. Ele conseguiu encontrar rapidamente o campo de busca de passagens e inseriu as informações de origem, destino e dados da viagem sem dificuldades. No entanto, ele destacou a falta de uma funcionalidade que permite comparar preços e horários para os dias próximos, sem a necessidade de refazer a pesquisa manualmente. Ele sugeriu a inclusão de um calendário interativo para facilitar essa comparação.
 
