@@ -42,7 +42,7 @@
 
 
 
-Este relatório apresenta os resultados do teste de comunicabilidade realizado com o usuário 2 ao acessar o site da Eucatur, visando avaliar a facilidade de navegação e a clareza das informações disponíveis.
+Este relatório apresenta os resultados do teste de usabilidade realizado com o usuário 2 ao acessar o site da Eucatur, visando avaliar a facilidade de navegação e a clareza das informações disponíveis.
 
 O teste começou com o usuário 2 acessando o site sem dificuldades. Na atividade de simulação de viagem, ele enfrentou uma pequena confusão ao tentar selecionar o tipo de viagem, confundindo o botão de "viagem de ida" com o de "ida e volta". Após alguns segundos de hesitação, conseguiu concluir a tarefa com sucesso.
 
@@ -62,4 +62,4 @@ Na nona atividade, que pedia a inserção de mais um passageiro, o usuário 2 ta
 
 Por fim, na décima atividade, que verificava a disponibilidade do serviço de encomendas, o usuário 2 encontrou essa opção facilmente, acessando-a sem dificuldades ao clicar no ícone de um caminhão com a palavra "encomendas", localizado em uma área bem visível da página principal. Ele comentou que gostaria que todas as etapas do site da Eucatur fossem tão fáceis de usar quanto a busca pela opção de encomenda, ressaltando a simplicidade e clareza dessa funcionalidade.
 
-Em conclusão, o teste de comunicabilidade para o usuário 2 revelou áreas de dificuldade, especialmente na busca por informações específicas e na navegação em certas etapas do site. A falta de suporte em momentos críticos e a confusão em algumas funcionalidades podem impactar a experiência do usuário. Recomenda-se, portanto, melhorias na clareza das informações e na navegação para aumentar a eficiência e a satisfação ao utilizar o site da Eucatur.
+Em conclusão, o teste de usabilidade para o usuário 2 revelou áreas de dificuldade, especialmente na busca por informações específicas e na navegação em certas etapas do site. A falta de suporte em momentos críticos e a confusão em algumas funcionalidades podem impactar a experiência do usuário. Recomenda-se, portanto, melhorias na clareza das informações e na navegação para aumentar a eficiência e a satisfação ao utilizar o site da Eucatur.
