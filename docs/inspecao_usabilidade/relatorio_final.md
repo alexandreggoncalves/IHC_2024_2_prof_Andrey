@@ -10,15 +10,14 @@ irá se deparar com botões bloqueados, ações sem resposta, ou alguma atividad
 que passará desapercebida ou causará um problema ao executar alguma tarefa. Assim como muitos error de
 inconsistência e padrões, design e prevenção de erros.
 Mesmo usuários mais experientes terão dificuldades em navegar pelo site, comprar uma passagem ou até 
-mesmo inspecioná-lo, devido algumas respostar inesperadas. O site possui um design antigo, cores que  
+mesmo inspecioná-lo, devido algumas respostar inesperadas. O site possui um design antigo, cores que 
 não ajudam a perceber determinadas mensagens e o FAQ de ajuda não auxilia nestes problemas.
 
 A compra de passagens é obsoleta, completamente fora dos padrões adotados atualmente, principalmente 
 para um compra coletiva ou com acompanhante por exemplo.
 Uma reformulação completa com novo design, novas api´s, metodologias de busca e reposicionamento 
-de menus é necessária.
-Uma vez conectado no sistema do site, as opções são confusas, o carrinho é confuso assim como 
-inserir ou excluir um passageiro.
+de menus é necessária. Uma vez conectado no sistema do site, as opções são confusas, o carrinho é confuso 
+assim como inserir ou excluir um passageiro.
 
 Quanto a usabilidade somente não efetuamos uma compra de passagem, pois acarretaria em custos 
 tanto para equipe de inspeção quanto para os usuários que foram testados, mas acredito que 
