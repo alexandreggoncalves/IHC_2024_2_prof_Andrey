@@ -34,3 +34,9 @@
 | **T13** Relatório final avaliacao de comunicabilidade |          |          | A1 1:10  |                |                     |
 | **T14** Relatório de conclusões e reflexões           |          |          |          | A1 0:20    A3:0:30  A2 0:25 |                     |
 | **T15** Apresentação em aula                          |          |          |          |                | A1, A2, A3 00:30    |
+| **T15** Apresentação em aula                          |          |          |          |                | A1, A2, A3 00:30    |
+| **T15** Apresentação em aula                          |          |          |          |                | A1, A2, A3 00:30    |
+| **T15** Apresentação em aula                          |          |          |          |                | A1, A2, A3 00:30    |
+
+
+
