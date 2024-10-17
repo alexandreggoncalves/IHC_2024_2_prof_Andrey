@@ -29,8 +29,8 @@
 | **T8** Discriminação da Inspeção de usabilidade       | A1 0:43  |          |          |                |                     |
 | **T9** Relatório da Inspeção de usabilidade           | A1 0:15  |  A2 1:50    |  A2 1:25      |                |                     |
 | **T10** Relatório a avaliação de UX LightHouse        | A1 1:25  |          |          |                |                     |
-| **T11** Entrevistas avaliação de comunicabilidade     | A1 1:25  | A1 0:50  | A1 0:20  |                |                     |
-| **T12** Edição vídeos avaliação de comunicabilidade   |          | A1 2:00  | A1 0:45  | A1 0:35        |                     |
+| **T11** Entrevistas avaliação de comunicabilidade     | A1 1:25  | A1 0:50  | A1 0:20  | A1 0:30        |                     |
+| **T12** Edição vídeos avaliação de comunicabilidade   |          | A1 2:00  | A1 0:45  | A1 0:55        |                     |
 | **T13** Relatório final avaliacao de comunicabilidade |          |          | A1 1:10  |                |                     |
 | **T14** Relatório de conclusões e reflexões           |          |          |          | A1 0:20    A3:0:30  A2 0:25 |                     |
 | **T15** Apresentação em aula                          |          |          |          |                | A1, A2, A3 00:30    |
