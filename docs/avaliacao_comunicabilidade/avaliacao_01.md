@@ -39,8 +39,3 @@
 
 ### Questionário pós teste sobre as impressões ao ter utilizado o site
 ![usuario_01](https://github.com/user-attachments/assets/8cf04eba-c09d-43a4-b990-597ad1fd3ef1)
-
-
-### Termo de consentimento livre e esclarecido - TCLE
-![tce_01](https://github.com/user-attachments/assets/edcee1b2-8691-4cf3-8bb6-3801220a7863)
-
